@@ -6,6 +6,10 @@ Revolutination is a DAO ( Decentralized Autonomous Organization ) powered by uns
 
 To be at the forefront of technology, revolutionize financial systems and build a transparent and trustworthy alternative to today's financial institutions. Contribute to the decentralized economy and help billions of people live in a fair, equitable, transparent and honest financial system.
 
+# Revolutination Voice
+
+Transparent, Trustworthy, and Futuristic
+
 # Description
 
 Revolutination allows you to send, spend and exchange money in more than a dozen currencies at the real exchange rate.
